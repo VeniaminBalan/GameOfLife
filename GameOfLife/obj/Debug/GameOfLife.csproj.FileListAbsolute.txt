@@ -1,0 +1,30 @@
+A:\Windows\Learn\Programing\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+A:\Windows\Learn\Programing\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+A:\Windows\Learn\Programing\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+A:\Windows\Learn\Programing\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+A:\Windows\Learn\Programing\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+A:\Windows\Learn\Programing\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+A:\Windows\Learn\Programing\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+A:\Windows\Learn\Programing\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+A:\Windows\Learn\Programing\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+A:\Windows\Learn\Programing\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\PC\Learn\Programing\C#\Game of Life\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\PC\Learn\Programing\C#\Game of Life\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\PC\Learn\Programing\C#\Game of Life\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\PC\Learn\Programing\C#\Game of Life\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+F:\PC\Learn\Programing\C#\Game of Life\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\PC\Learn\Programing\C#\Game of Life\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\PC\Learn\Programing\C#\Game of Life\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\PC\Learn\Programing\C#\Game of Life\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\PC\Learn\Programing\C#\Game of Life\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\PC\Learn\Programing\C#\Game of Life\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\PC\Learn\Programing\C#\Game of Life - Refactoring\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+F:\PC\Learn\Programing\C#\Game of Life - Refactoring\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\PC\Learn\Programing\C#\Game of Life - Refactoring\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\PC\Learn\Programing\C#\Game of Life - Refactoring\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\PC\Learn\Programing\C#\Game of Life - Refactoring\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\PC\Learn\Programing\C#\Game of Life - Refactoring\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\PC\Learn\Programing\C#\Game of Life - Refactoring\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\PC\Learn\Programing\C#\Game of Life - Refactoring\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\PC\Learn\Programing\C#\Game of Life - Refactoring\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\PC\Learn\Programing\C#\Game of Life - Refactoring\WindowsFormsApp1\obj\Debug\Game_of_Life.Form1.resources
